@@ -18,3 +18,6 @@ how to save:
 Control + S
 
 you don't have to push one commit at a time
+
+you can push multiple commits at once
+There is no limit
