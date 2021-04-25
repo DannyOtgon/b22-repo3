@@ -1,6 +1,6 @@
 public class HelloWorld{
-	public static static void (String[] args){
-
+	public static void main (String [] args){
+		
 	}
 
 }
