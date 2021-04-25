@@ -16,3 +16,5 @@ Now our work will continue lcoally
 
 how to save:
 Control + S
+
+you don't have to push one commit at a time
